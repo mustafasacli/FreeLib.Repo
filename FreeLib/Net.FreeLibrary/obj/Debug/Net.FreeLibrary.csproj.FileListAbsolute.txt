@@ -1,0 +1,15 @@
+E:\Projects\FreeProjects\FreeLibrary\SourceFolder\FreeLib\Net.FreeLibrary\bin\Debug\Net.FreeLibrary.dll
+E:\Projects\FreeProjects\FreeLibrary\SourceFolder\FreeLib\Net.FreeLibrary\bin\Debug\Net.FreeLibrary.pdb
+E:\Projects\FreeProjects\FreeLibrary\SourceFolder\FreeLib\Net.FreeLibrary\obj\Debug\Net.FreeLibrary.dll
+E:\Projects\FreeProjects\FreeLibrary\SourceFolder\FreeLib\Net.FreeLibrary\obj\Debug\Net.FreeLibrary.pdb
+E:\Projects\FreeProjects\FreeLibrary\SourceFolder\FreeLib\Net.FreeLibrary\obj\Debug\Net.FreeLibrary.csprojResolveAssemblyReference.cache
+F:\TurksatProjects\Oldies\FreeLib\FreeLib\Net.FreeLibrary\bin\Debug\Net.FreeLibrary.dll
+F:\TurksatProjects\Oldies\FreeLib\FreeLib\Net.FreeLibrary\bin\Debug\Net.FreeLibrary.pdb
+F:\TurksatProjects\Oldies\FreeLib\FreeLib\Net.FreeLibrary\obj\Debug\Net.FreeLibrary.csprojResolveAssemblyReference.cache
+F:\TurksatProjects\Oldies\FreeLib\FreeLib\Net.FreeLibrary\obj\Debug\Net.FreeLibrary.dll
+F:\TurksatProjects\Oldies\FreeLib\FreeLib\Net.FreeLibrary\obj\Debug\Net.FreeLibrary.pdb
+K:\TurksatProjects\Oldies\FreeLib\FreeLib\Net.FreeLibrary\obj\Debug\Net.FreeLibrary.csprojResolveAssemblyReference.cache
+K:\TurksatProjects\Oldies\FreeLib\FreeLib\Net.FreeLibrary\obj\Debug\Net.FreeLibrary.dll
+K:\TurksatProjects\Oldies\FreeLib\FreeLib\Net.FreeLibrary\obj\Debug\Net.FreeLibrary.pdb
+K:\TurksatProjects\Oldies\FreeLib\FreeLib\Net.FreeLibrary\bin\Debug\Net.FreeLibrary.dll
+K:\TurksatProjects\Oldies\FreeLib\FreeLib\Net.FreeLibrary\bin\Debug\Net.FreeLibrary.pdb
